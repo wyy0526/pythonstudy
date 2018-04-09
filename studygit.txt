@@ -15,3 +15,8 @@ $ git reset HEAD readme.txt
 
 $ git rm test.txt
 $ git commit -m "remove test.txt"
+
+git remote add origin git@github.com:wyy0526/pythonstudy.git
+git pull origin master --allow-unrelated-histories #如果报错就用下面那句
+git pull origin master
+git push -u origin master
