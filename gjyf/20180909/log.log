@@ -1,0 +1,50 @@
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+2018-09-09 15:14:01,719===DEBUG===this is a debug log
+2018-09-09 15:14:01,719===INFO===this is a info log
+2018-09-09 15:14:01,720===WARNING===this is a warning log
+2018-09-09 15:14:01,720===ERROR===this is a error log
+2018-09-09 15:14:01,720===CRITICAL===this is a critical log
+2018-09-09 15:14:01,720===DEBUG===this is a debug log
+2018-09-09 15:14:01,720===INFO===this is a info log
+2018-09-09 15:14:01,720===WARNING===this is a warning log
+2018-09-09 15:14:01,720===ERROR===this is a error log
+2018-09-09 15:14:01,720===CRITICAL===this is a critical log
+2018-09-09 15:14:48,297:DEBUG:this is a debug log
+2018-09-09 15:14:48,297:INFO:this is a info log
+2018-09-09 15:14:48,297:WARNING:this is a warning log
+2018-09-09 15:14:48,297:ERROR:this is a error log
+2018-09-09 15:14:48,297:CRITICAL:this is a critical log
+2018-09-09 15:14:48,297:DEBUG:this is a debug log
+2018-09-09 15:14:48,297:INFO:this is a info log
+2018-09-09 15:14:48,297:WARNING:this is a warning log
+2018-09-09 15:14:48,297:ERROR:this is a error log
+2018-09-09 15:14:48,297:CRITICAL:this is a critical log
+2018-09-12 21:18:36,927:DEBUG:this is a debug log
+2018-09-12 21:18:36,927:INFO:this is a info log
+2018-09-12 21:18:36,927:WARNING:this is a warning log
+2018-09-12 21:18:36,927:ERROR:this is a error log
+2018-09-12 21:18:36,927:CRITICAL:this is a critical log
+2018-09-12 21:18:36,927:DEBUG:this is a debug log
+2018-09-12 21:18:36,927:INFO:this is a info log
+2018-09-12 21:18:36,927:WARNING:this is a warning log
+2018-09-12 21:18:36,927:ERROR:this is a error log
+2018-09-12 21:18:36,927:CRITICAL:this is a critical log
+2018-09-12 21:18:47,286:DEBUG:this is a debug log
+2018-09-12 21:18:47,286:INFO:this is a info log
+2018-09-12 21:18:47,286:WARNING:this is a warning log
+2018-09-12 21:18:47,286:ERROR:this is a error log
+2018-09-12 21:18:47,286:CRITICAL:this is a critical log
+2018-09-12 21:18:47,286:DEBUG:this is a debug log
+2018-09-12 21:18:47,286:INFO:this is a info log
+2018-09-12 21:18:47,286:WARNING:this is a warning log
+2018-09-12 21:18:47,286:ERROR:this is a error log
+2018-09-12 21:18:47,286:CRITICAL:this is a critical log
